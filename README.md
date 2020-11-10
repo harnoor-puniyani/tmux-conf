@@ -12,9 +12,9 @@ set options -g >~/.tmux.conf
 ```
 In this file you can make 
 2. Install the plugin manager for tmux , tpm is recommended.
-[link][github - tpo]
-[github - tpo]:https://github.com/tmux-plugins/tpm
+[link][github]
+[github]:(https://github.com/tmux-plugins/tpm)
 
 3. to make the task more easier we will use Yank to make copy and paste easier between system clipboard and tmux clipboard.
 You may find the 
-[link]:https://github.com/tmux-plugins/tmux-yank 
+[link]:(https://github.com/tmux-plugins/tmux-yank)
