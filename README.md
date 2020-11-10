@@ -1,4 +1,4 @@
-#tmux-conf
+## tmux-conf
 ___
  
 Here we are trying to build a customised tmux as it is one of the most important tools that help you build things faster and its extensibly stable as compared to other tools , So i created a conf for helping myself out after sparing few hours , excatly how things work in here and determining to how to go about with it.So the steps are as follows :
@@ -16,4 +16,5 @@ In this file you can make
 [github - tpo]:https://github.com/tmux-plugins/tpm
 
 3. to make the task more easier we will use Yank to make copy and paste easier between system clipboard and tmux clipboard.
-You may find the link [here]:https://github.com/tmux-plugins/tmux-yank 
+You may find the 
+[link]:https://github.com/tmux-plugins/tmux-yank 
